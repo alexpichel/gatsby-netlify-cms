@@ -21,8 +21,10 @@ callToActions:
 seo:
   browserTitle: NASC
   description: >-
-    JavaScript meetup group in Wakanda where JavaScript developers get together
-    for presentations and to meet others in the community.
+    The National Association of Sentencing Commissions (NASC) is a non-profit
+    organization that was created to facilitate the exchange and sharing of
+    information, ideas, data, expertise, and experiences and to educate on
+    issues related to sentencing policies, guidelines and commissions.
   title: National Association of Sentencing Commissions
 ---
 
