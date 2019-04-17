@@ -1,9 +1,9 @@
 ---
 templateKey: footer
 logoImage:
-  image: /img/js-wakanda.png
-  imageAlt: JavaScript Wakanda
-  tagline: Your friendly local Wakanda meetup
+  image: /img/173_home.jpg
+  imageAlt: 'NASC scales, gavel, book logo'
+  tagline: National Association of Sentencing Commissions
 socialLinks:
   - image: /img/meetup.svg
     imageAlt: Join us on meetup.com
