@@ -16,13 +16,13 @@ callToActions:
   secondCTA:
     heading: Volunteer to Present
     linkType: external
-    linkURL: 'mailto:contact@js-wakanda.org'
+    linkURL: 'mailto:contact@thenasc.org'
     subHeading: Want to present at an upcoming meetup? Contact us.
 seo:
   browserTitle: NASC
   description: >-
     JavaScript meetup group in Wakanda where JavaScript developers get together
     for presentations and to meet others in the community.
-  title: JavaScript Wakanda
+  title: National Association of Sentencing Commissions
 ---
 
