@@ -1,6 +1,6 @@
 ---
-title: November 2060
-date: 2060-11-09T23:00:00.000Z
+title: August 2019
+date: 2019-08-14T22:00:00.000Z
 presenters:
   - image: /img/jonas-kakaroto-577554-unsplash.jpg
     links:
