@@ -5,7 +5,7 @@ backend:
 media_folder: static/img
 public_folder: /img
 
-display_url: https://gatsby-netlify-cms-example.netlify.com/
+display_url: https://nascdemo.netlify.com/
 
 collections:
   - name: "meetups"
@@ -166,7 +166,7 @@ collections:
                 ],
             }
           - { label: "Title", name: "title", widget: "string" }
-          - { label: "About the NASC", name: "aboutText", widget: "string" }
+          - { label: "About the NASC", name: "aboutTextTitle", widget: "string" }
           - { label: "Upcoming Meetup Heading", name: "upcomingMeetupHeading", widget: "string" }
           - { label: "No Upcoming Meetup Text", name: "noUpcomingMeetupText", hint: "This text will be displayed when there are no upcoming meetups", required: true, widget: "string" }
           - { label: "Maps Note", name: "mapsNote", required: true, widget: "string" }
