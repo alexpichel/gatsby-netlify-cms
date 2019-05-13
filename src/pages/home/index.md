@@ -4,7 +4,7 @@ headerImage:
   image: /img/173_home.jpg
   imageAlt: NASC logo
 title: National Association of Sentencing Commissions
-aboutTextTitle: testing
+aboutTextTitle: sddfsf
 upcomingMeetupHeading: Upcoming Conference
 noUpcomingMeetupText: Details to be announced.
 mapsNote: Clicking the pin opens Google Maps in a new tab.
