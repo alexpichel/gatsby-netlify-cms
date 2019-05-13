@@ -27,7 +27,7 @@ export const HomePageTemplate = ({ home, upcomingMeetup = null }) => {
       <section className="aboutText  section">
         <div className="aboutText-container  container">
           <h2 className="aboutText-title">{home.aboutTextHeading}</h2>
-          <p className="upcomingMeetup-detail">{home.aboutTextDetail}</p>
+          <p className="aboutText-detail">{home.aboutTextDetail}</p>
         </div>
       </section>
       <section className="upcomingMeetup  section">
@@ -188,6 +188,8 @@ export const pageQuery = graphql`
               image
               imageAlt
             }
+            aboutTextHeading
+            aboutTextDetail
             upcomingMeetupHeading
             noUpcomingMeetupText
             mapsNote
