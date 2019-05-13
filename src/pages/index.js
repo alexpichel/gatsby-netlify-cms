@@ -24,6 +24,21 @@ export const HomePageTemplate = ({ home, upcomingMeetup = null }) => {
           </h3>
         </div>
       </section>
+      <section className="aboutText  section">
+        <div className="aboutText-container  container">
+          <h2 className="aboutText-title">{home.aboutTextHeading}</h2>
+          {aboutText ? (
+            <>
+              <p className="aboutText-detail  aboutText-detail">
+                {aboutText}
+              </p>
+
+            </>
+          ) : (
+            <p className="aboutText-detail">{home.noaboutTextText}</p>
+          )}
+        </div>
+      </section>
       <section className="upcomingMeetup  section">
         <div className="upcomingMeetup-container  container">
           <h2 className="upcomingMeetup-title">{home.upcomingMeetupHeading}</h2>
