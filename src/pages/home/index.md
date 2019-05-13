@@ -4,7 +4,7 @@ headerImage:
   image: /img/173_home.jpg
   imageAlt: NASC logo
 title: National Association of Sentencing Commissions
-aboutText: Can I put other words here?
+aboutTextTitle: test
 upcomingMeetupHeading: Upcoming Conference
 noUpcomingMeetupText: Details to be announced.
 mapsNote: Clicking the pin opens Google Maps in a new tab.
@@ -28,3 +28,4 @@ seo:
     issues related to sentencing policies, guidelines and commissions.
   title: National Association of Sentencing Commissions
 ---
+
