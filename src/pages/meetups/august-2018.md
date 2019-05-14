@@ -1,18 +1,16 @@
 ---
 templateKey: meetup
-title: August 2018
-date: 2018-08-14T23:00:00.000Z
+title: NASC 2018 Annual Conference
+date: 2018-08-13T19:00:00.000Z
 presenters:
-  - image: /img/ramy-kabalan-796973-unsplash.jpg
+  - image: ''
     name: Fred Champ
-    presentationTitle: Network optimizations 101
-    text: >+
-      If you have an application that requires network requests to run, you
-      might want to come watch this presentation. We'll cover congestion
-      control, caching, batching and a couple advanced strategies to make your
-      application faster all while saving on infrastructure costs.
-
-  - image: /img/marius-ciocirlan-398931-unsplash.jpg
+    presentationTitle: 'Sentencing Commissions: Intersections, Influences and Intercepts'
+    text: >
+      Sentencing and the work of sentencing commission often intersect with
+      other components of he criminal justice system, including bail, interstate
+      compact, parole, diversionary programs, and problem-solving courts.
+  - image: ''
     name: Ben Wilson
     presentationTitle: Memoizing functions
     text: >-
